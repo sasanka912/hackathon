@@ -1,1 +1,23 @@
 # hackathon
+
+
+#TASK 1 
+
+ "I GOT BETTER SUMMARIZED RESULTS"
+
+ #TASK 2 
+
+ "I GOT 61% ACCURACY"
+
+
+ #TASK 3
+
+  "I GOT 90% ACCURACY"
+
+
+  #TASK 4 
+
+
+  "I GOT 91% ACCURACY"
+
+ 
